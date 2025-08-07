@@ -1,8 +1,10 @@
 # 📝 Flask Notes Keeper
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 [![HTML](https://img.shields.io/badge/HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)  
+
 
 
 A minimal and functional web app built with **Python Flask** to create, view, and delete personal notes. Data is stored using a simple **SQLite** database, and the UI is styled with **HTML5**, **CSS3**, and **Bootstrap** for responsiveness.
