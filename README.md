@@ -21,6 +21,14 @@ A minimal and functional web app built with **Python Flask** to create, view, an
 - Lightweight and fast – perfect for small personal projects
 
 
+## Live Demo
+
+
+https://github.com/user-attachments/assets/3cf2351f-3130-439a-818f-21ef848aeaeb
+
+
+
+
 ## 🛠️ Technologies Used
 
 - **Python 3**
